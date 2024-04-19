@@ -1,0 +1,6 @@
+.paragrafo {
+    color: brown;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
